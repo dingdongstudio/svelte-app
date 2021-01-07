@@ -1,2 +1,2 @@
 # svelte-app
- svelto compiled code
+ svelte compiled code
